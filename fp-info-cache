@@ -1,4 +1,4 @@
-19959462347474179
+19961086831405179
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -86288,6 +86288,13 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
+nes-expansion-port
+BreakawayTab_W5.00mm_P0.80mm_D0.50mm
+
+
+0
+0
+0
 nes-expansion-port
 PinHeader_2x24_P2.54mm_Vertical_Ordered
 Through hole straight pin header, 2x24, 2.54mm pitch, double rows

@@ -4,3 +4,5 @@ A breakout board for the NES Expansion port. The two parts of the assembly are s
 
 ### JLCPCB Ordering
 Options used: Single PCB, 1.6 thickness, HASL finish, 1oz copper weight, Gold Fingers with 45 degre chamfer, No flying probe test, and using a specified location for the order number.
+
+You'll probably need to tell them that this is technically two designs. They charged me an extra $4 after reviewing because of this.
